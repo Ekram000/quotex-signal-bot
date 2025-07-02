@@ -2,4 +2,4 @@ flask
 pandas
 pandas_ta
 requests
-git+https://github.com/IgniteChain/QuotexAPI
+git+https://github.com/IgniteChain/QuotexAPI.git
